@@ -1,6 +1,8 @@
 # Beet React for YouTube
 A cross-platform React Native app that lets you find song instrumentals using YouTube.
 
+![BeetImage](https://github.com/punyasc/Beet-React-for-YouTube/raw/master/screenshots.png)
+
 ### Download Using Expo
 https://expo.io/@punya/Beet
 
